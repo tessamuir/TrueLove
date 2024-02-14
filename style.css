@@ -1,22 +1,18 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
+body {
+    background-color: black;
+    color: white;
 }
-p {
-  color: red;
-}
-.note {
-  font-size: 20px;
+.customdiv{
+    width: 50%;
+    margin-left: 25%;
 
 }
-#id-selector-demo {
-  color: green;
+img {
+    width: 100%;
 }
-/* Write your CSS below, don't change the rules above. */
-li[value="4"] {
-  color:blue;
+h1 {
+    text-align: center;
 }
- *{
-  text-align: center;
- }
+h2 {
+    text-align: center;
+}
